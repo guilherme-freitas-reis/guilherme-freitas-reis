@@ -4,9 +4,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Guilherme Reis.
-I'm a full stack developer :computer:
+I'm a front end developer :computer:
 
-- :rocket:   I’m currently working at **Localiza**
-- :purple_heart:   React and Next.js
-- :computer:   ReactJS, Next.js, Node, React Native, Typescript. .NET
+- :green_heart:   I’m currently working at **Localiza**
+- :rocket:   React and Next.js
+- :computer:   ReactJS, Next.js, Angular, Vue, Node, React Native, Typescript. .NET
 - 💬   Ask me about: tech, games, movies
