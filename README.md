@@ -8,5 +8,5 @@ I'm a front end developer :computer:
 
 - :green_heart:   I’m currently working at **Localiza**
 - :rocket:   React and Next.js
-- :computer:   ReactJS, Next.js, Angular, Vue, Node, React Native, Typescript. .NET
+- :computer:   ReactJS, Next.js, Angular, Vue, Node, React Native, Typescript, .NET
 - 💬   Ask me about: tech, games, movies
