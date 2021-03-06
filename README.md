@@ -1,5 +1,5 @@
 # Guilherme Reis
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme de Freitas Reis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-freitas-reis/)](https://www.linkedin.com/in/guilherme-freitas-reis/) 
+[![Linkedin Badge](https://img.shields.io/badge/-GuilhermeReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-freitas-reis/)](https://www.linkedin.com/in/guilherme-freitas-reis/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermereis9876@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermereis9876@gmail.com)](mailto:guilhermereis9876@gmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
